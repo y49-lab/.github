@@ -1,11 +1,11 @@
-# 📌 Contributing to LAB.LOCAL
+# 📌 Contributing to y49.Lab
 
 *Fast & Secure by Design.*
 
-Thank you for your interest in contributing! This project is primarily a personal portfolio, but improvements, corrections, and suggestions are always welcome. Whether it's a documentation fix, a better script, or a new diagram, every contribution helps make the LAB.LOCAL ecosystem a more valuable resource.
+Thank you for your interest in contributing! This project is primarily a personal portfolio, but improvements, corrections, and suggestions are always welcome. Whether it's a documentation fix, a better script, or a new diagram, every contribution helps make the y49.Lab ecosystem a more valuable resource.
 
 > **Note:** All code, documentation, and assets related to the infrastructure live in the 
-> [`core-infra`](https://github.com/lab-local/core-infra) repository. 
+> [`infra`](https://github.com/y49-lab/infra) repository. 
 > If you're looking to contribute to the infrastructure or scripts, please start there.
 
 ## How to contribute
@@ -42,4 +42,4 @@ If your change is substantial, please open an issue first to discuss the directi
 
 ## Thank you
 
-Every contribution, no matter how small, helps make LAB.LOCAL better for everyone. We're grateful for your time and effort.
+Every contribution, no matter how small, helps make y49.Lab better for everyone. We're grateful for your time and effort.
