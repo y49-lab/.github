@@ -53,8 +53,8 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported 
-by opening an issue in the main repository [`core-infra`](https://github.com/lab-local/core-infra), or by contacting 
-the maintainer directly at [hello@lab-loc.dev](mailto:hello@lab-loc.dev). 
+by opening an issue in the main repository [`infra`](https://github.com/y49-lab/infra), or by contacting 
+the maintainer directly at [hello@y49uil4r.dev](mailto:hello@y49uil4r.dev).
 All complaints will be reviewed and investigated promptly and fairly.
 
 ## Attribution
